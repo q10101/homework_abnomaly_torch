@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/prob_abnomaly_tf.iml" filepath="$PROJECT_DIR$/.idea/prob_abnomaly_tf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/prob_abnomaly_torch.iml" filepath="$PROJECT_DIR$/.idea/prob_abnomaly_torch.iml" />
     </modules>
   </component>
 </project>
